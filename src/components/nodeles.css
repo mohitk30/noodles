@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+}
+.each-nodles{
+    /* width: 100px;
+    height: 100px; */
+    box-shadow: 0px 0px 4px rgb(117, 111, 111);
+    margin: 10px;
+    padding: 10px;
+}
